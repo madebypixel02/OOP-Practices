@@ -1,0 +1,8 @@
+-classpath '/home/pixel/UOC/Object-Oriented Programming/OOP-Practices/CAT 2 - Classes and objects/PAC2Ex2/build/classes/java/main:/home/pixel/UOC/Object-Oriented Programming/OOP-Practices/CAT 2 - Classes and objects/PAC2Ex2/build/resources/main'
+-d '/home/pixel/UOC/Object-Oriented Programming/OOP-Practices/CAT 2 - Classes and objects/PAC2Ex2/build/docs/javadoc'
+-doctitle 'PAC2Ex2 1.0-SNAPSHOT API'
+-private 
+-notimestamp 
+-quiet 
+-windowtitle 'PAC2Ex2 1.0-SNAPSHOT API'
+'/home/pixel/UOC/Object-Oriented Programming/OOP-Practices/CAT 2 - Classes and objects/PAC2Ex2/src/main/java/edu/uoc/pac2/RPGCharacter.java'

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pac2.RPGCharacterTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2023-04-10T23:51:26" hostname="tux" time="0.041">
+  <properties/>
+  <testcase name="testAlignment()" classname="edu.uoc.pac2.RPGCharacterTest" time="0.02"/>
+  <testcase name="testLastDeath()" classname="edu.uoc.pac2.RPGCharacterTest" time="0.009"/>
+  <testcase name="Sanity - Methods definition" classname="edu.uoc.pac2.RPGCharacterTest" time="0.001"/>
+  <testcase name="testGetId()" classname="edu.uoc.pac2.RPGCharacterTest" time="0.0"/>
+  <testcase name="testResurrect()" classname="edu.uoc.pac2.RPGCharacterTest" time="0.001"/>
+  <testcase name="testRPGCharacterDefault()" classname="edu.uoc.pac2.RPGCharacterTest" time="0.0"/>
+  <testcase name="testRPGCharacter1()" classname="edu.uoc.pac2.RPGCharacterTest" time="0.004"/>
+  <testcase name="testRPGCharacter2()" classname="edu.uoc.pac2.RPGCharacterTest" time="0.0"/>
+  <testcase name="testIncLevel()" classname="edu.uoc.pac2.RPGCharacterTest" time="0.001"/>
+  <testcase name="testupdateLife()" classname="edu.uoc.pac2.RPGCharacterTest" time="0.001"/>
+  <testcase name="Sanity - Fields definition" classname="edu.uoc.pac2.RPGCharacterTest" time="0.0"/>
+  <testcase name="testSetName()" classname="edu.uoc.pac2.RPGCharacterTest" time="0.001"/>
+  <testcase name="testSetName2()" classname="edu.uoc.pac2.RPGCharacterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
