@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pac3.AlbumTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-04-30T21:18:36" hostname="tux" time="0.332">
+  <properties/>
+  <testcase name="testAlbumConstructor()" classname="edu.uoc.pac3.AlbumTest" time="0.33"/>
+  <testcase name="testTrackSetter()" classname="edu.uoc.pac3.AlbumTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

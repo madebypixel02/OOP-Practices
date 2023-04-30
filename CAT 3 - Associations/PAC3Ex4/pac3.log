@@ -1,0 +1,14 @@
+23:18 INFO  edu.uoc.pac3.Album - Creating new album
+23:18 DEBUG edu.uoc.pac3.Album - Title: Nevermind
+23:18 DEBUG edu.uoc.pac3.Album - Artist: Nirvana
+23:18 DEBUG edu.uoc.pac3.Album - #tracks: 0
+23:18 INFO  edu.uoc.pac3.Album - Creating new album
+23:18 DEBUG edu.uoc.pac3.Album - Title: Abbey Road
+23:18 DEBUG edu.uoc.pac3.Album - Artist: The Beatles
+23:18 DEBUG edu.uoc.pac3.Album - #tracks: 1
+23:18 INFO  edu.uoc.pac3.Album - Creating new album
+23:18 DEBUG edu.uoc.pac3.Album - Title: Grandes Exitos
+23:18 DEBUG edu.uoc.pac3.Album - Artist: Georgie Dan
+23:18 DEBUG edu.uoc.pac3.Album - #tracks: 10
+23:18 ERROR edu.uoc.pac3.Track - Duration should not be a negative value!
+23:18 ERROR edu.uoc.pac3.Track - Duration should not be a negative value!

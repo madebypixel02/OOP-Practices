@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pac3.AlbumTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2023-04-30T21:19:21" hostname="tux" time="0.021">
+  <properties/>
+  <testcase name="Sanity - Methods definition" classname="edu.uoc.pac3.AlbumTest" time="0.001"/>
+  <testcase name="testSetAvailableOnline()" classname="edu.uoc.pac3.AlbumTest" time="0.001"/>
+  <testcase name="testGetFormattedReleaseDate()" classname="edu.uoc.pac3.AlbumTest" time="0.011"/>
+  <testcase name="testSetArtist()" classname="edu.uoc.pac3.AlbumTest" time="0.0"/>
+  <testcase name="testSetReleaseDate()" classname="edu.uoc.pac3.AlbumTest" time="0.0"/>
+  <testcase name="testAlbum1()" classname="edu.uoc.pac3.AlbumTest" time="0.001"/>
+  <testcase name="testAlbum2()" classname="edu.uoc.pac3.AlbumTest" time="0.001"/>
+  <testcase name="testAlbum3()" classname="edu.uoc.pac3.AlbumTest" time="0.0"/>
+  <testcase name="Sanity - Fields definition" classname="edu.uoc.pac3.AlbumTest" time="0.0"/>
+  <testcase name="testSetAlbumCover()" classname="edu.uoc.pac3.AlbumTest" time="0.001"/>
+  <testcase name="testSetGenre()" classname="edu.uoc.pac3.AlbumTest" time="0.001"/>
+  <testcase name="testSetPrice()" classname="edu.uoc.pac3.AlbumTest" time="0.001"/>
+  <testcase name="testSetTitle()" classname="edu.uoc.pac3.AlbumTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

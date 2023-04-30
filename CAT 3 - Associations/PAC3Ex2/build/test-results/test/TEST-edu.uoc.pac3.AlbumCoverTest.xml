@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pac3.AlbumCoverTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-04-30T21:19:05" hostname="tux" time="0.023">
+  <properties/>
+  <testcase name="Sanity - Methods definition" classname="edu.uoc.pac3.AlbumCoverTest" time="0.013"/>
+  <testcase name="testAlbumCover()" classname="edu.uoc.pac3.AlbumCoverTest" time="0.0"/>
+  <testcase name="testGetAspectRatio()" classname="edu.uoc.pac3.AlbumCoverTest" time="0.001"/>
+  <testcase name="testSetAuthor()" classname="edu.uoc.pac3.AlbumCoverTest" time="0.002"/>
+  <testcase name="testSetHeight()" classname="edu.uoc.pac3.AlbumCoverTest" time="0.001"/>
+  <testcase name="Sanity - Fields definition" classname="edu.uoc.pac3.AlbumCoverTest" time="0.0"/>
+  <testcase name="testSetName()" classname="edu.uoc.pac3.AlbumCoverTest" time="0.001"/>
+  <testcase name="testSetWidth()" classname="edu.uoc.pac3.AlbumCoverTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

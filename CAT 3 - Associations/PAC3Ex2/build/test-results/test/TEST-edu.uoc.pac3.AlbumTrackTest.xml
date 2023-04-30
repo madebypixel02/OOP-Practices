@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pac3.AlbumTrackTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-04-30T21:19:05" hostname="tux" time="0.004">
+  <properties/>
+  <testcase name="testEmptyAlbum()" classname="edu.uoc.pac3.AlbumTrackTest" time="0.0"/>
+  <testcase name="testSwapTracks()" classname="edu.uoc.pac3.AlbumTrackTest" time="0.001"/>
+  <testcase name="testRemoveTrack()" classname="edu.uoc.pac3.AlbumTrackTest" time="0.001"/>
+  <testcase name="testAddTrack()" classname="edu.uoc.pac3.AlbumTrackTest" time="0.001"/>
+  <testcase name="testIsInTheAlbum()" classname="edu.uoc.pac3.AlbumTrackTest" time="0.0"/>
+  <testcase name="testGetTotalDuration()" classname="edu.uoc.pac3.AlbumTrackTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
