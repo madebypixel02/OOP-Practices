@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pac4.OrderTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2023-05-22T21:50:42" hostname="tux" time="0.009">
+  <properties/>
+  <testcase name="testSetOrderDate()" classname="edu.uoc.pac4.OrderTest" time="0.0"/>
+  <testcase name="Sanity (Order) - Methods definition" classname="edu.uoc.pac4.OrderTest" time="0.001"/>
+  <testcase name="testSetDeliveryDate()" classname="edu.uoc.pac4.OrderTest" time="0.001"/>
+  <testcase name="testBill()" classname="edu.uoc.pac4.OrderTest" time="0.004"/>
+  <testcase name="testCompareTo()" classname="edu.uoc.pac4.OrderTest" time="0.001"/>
+  <testcase name="testAddOrderItem()" classname="edu.uoc.pac4.OrderTest" time="0.0"/>
+  <testcase name="Sanity (OrderException) - Fields definition" classname="edu.uoc.pac4.OrderTest" time="0.0"/>
+  <testcase name="testRemoveOrderItem()" classname="edu.uoc.pac4.OrderTest" time="0.0"/>
+  <testcase name="Sanity (Order) - Fields definition" classname="edu.uoc.pac4.OrderTest" time="0.001"/>
+  <testcase name="testConstructor()" classname="edu.uoc.pac4.OrderTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
