@@ -9,7 +9,7 @@
 <!-- By: aperez-b <aperez-b@uoc.edu>                     +@@@@@@@* +@@+      -->
 <!--                                                       :-==:.  -@@#      -->
 <!-- Created: 2023/03/19 14:56:18 by aperez-b                       +@@@%@   -->
-<!-- Updated: 2023/05/22 23:58:30 by aperez-b                                -->
+<!-- Updated: 2023/06/12 21:16:21 by aperez-b                                -->
 <!--                                                                         -->
 <!-- *********************************************************************** -->
 
@@ -21,3 +21,5 @@
 - [CAT 2 - Classes and objects](./CAT%202%20-%20Classes%20and%20objects)
 - [CAT 3 - Associations](./CAT%203%20-%20Associations)
 - [CAT 4 - Inheritance](./CAT%204%20-%20Inheritance)
+- [Practice 1 - Design](./Practice%201%20-%20Design)
+- [Practice 2 - Coding](./Practice%202%20-%20Coding)
