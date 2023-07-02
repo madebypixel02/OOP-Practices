@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.uocoban.model.entities.pathable.MutableTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-07-02T15:07:04" hostname="tux" time="0.003">
+  <properties/>
+  <testcase name="Sanity Mutable - Class definition" classname="edu.uoc.uocoban.model.entities.pathable.MutableTest" time="0.001"/>
+  <testcase name="Sanity Mutable - Methods definition" classname="edu.uoc.uocoban.model.entities.pathable.MutableTest" time="0.001"/>
+  <testcase name="Sanity Mutable - Fields definition" classname="edu.uoc.uocoban.model.entities.pathable.MutableTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

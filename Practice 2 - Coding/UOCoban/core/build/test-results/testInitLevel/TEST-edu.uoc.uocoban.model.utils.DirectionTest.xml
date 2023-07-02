@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.uocoban.model.utils.DirectionTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-07-02T15:07:14" hostname="tux" time="0.003">
+  <properties/>
+  <testcase name="getX()" classname="edu.uoc.uocoban.model.utils.DirectionTest" time="0.001"/>
+  <testcase name="getY()" classname="edu.uoc.uocoban.model.utils.DirectionTest" time="0.0"/>
+  <testcase name="getKeyCode()" classname="edu.uoc.uocoban.model.utils.DirectionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

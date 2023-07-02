@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.uocoban.model.entities.pathable.BigBoxDestinationTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-07-02T15:07:04" hostname="tux" time="0.01">
+  <properties/>
+  <testcase name="Sanity BigBoxDestination - Class definition" classname="edu.uoc.uocoban.model.entities.pathable.BigBoxDestinationTest" time="0.001"/>
+  <testcase name="Sanity BigBoxDestination - Methods definition" classname="edu.uoc.uocoban.model.entities.pathable.BigBoxDestinationTest" time="0.002"/>
+  <testcase name="testBigBoxDestinationConstructor()" classname="edu.uoc.uocoban.model.entities.pathable.BigBoxDestinationTest" time="0.001"/>
+  <testcase name="Sanity BigBoxDestination - Fields definition" classname="edu.uoc.uocoban.model.entities.pathable.BigBoxDestinationTest" time="0.001"/>
+  <testcase name="testSetBox()" classname="edu.uoc.uocoban.model.entities.pathable.BigBoxDestinationTest" time="0.001"/>
+  <testcase name="testSetPosition()" classname="edu.uoc.uocoban.model.entities.pathable.BigBoxDestinationTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

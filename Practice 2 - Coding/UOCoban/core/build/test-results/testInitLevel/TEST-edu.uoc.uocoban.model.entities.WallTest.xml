@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.uocoban.model.entities.WallTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-07-02T15:07:14" hostname="tux" time="0.006">
+  <properties/>
+  <testcase name="testIsPathable()" classname="edu.uoc.uocoban.model.entities.WallTest" time="0.002"/>
+  <testcase name="testConstructor()" classname="edu.uoc.uocoban.model.entities.WallTest" time="0.001"/>
+  <testcase name="testSetPosition()" classname="edu.uoc.uocoban.model.entities.WallTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

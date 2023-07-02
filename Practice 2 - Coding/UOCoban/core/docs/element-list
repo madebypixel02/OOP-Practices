@@ -1,0 +1,8 @@
+edu.uoc.uocoban.controller
+edu.uoc.uocoban.model
+edu.uoc.uocoban.model.entities
+edu.uoc.uocoban.model.entities.movable
+edu.uoc.uocoban.model.entities.pathable
+edu.uoc.uocoban.model.exceptions
+edu.uoc.uocoban.model.utils
+edu.uoc.uocoban.view

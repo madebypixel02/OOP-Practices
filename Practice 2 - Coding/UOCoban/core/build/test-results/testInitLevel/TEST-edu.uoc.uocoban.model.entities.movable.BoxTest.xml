@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.uocoban.model.entities.movable.BoxTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-07-02T15:07:14" hostname="tux" time="0.005">
+  <properties/>
+  <testcase name="testIsPathable()" classname="edu.uoc.uocoban.model.entities.movable.BoxTest" time="0.002"/>
+  <testcase name="testInitBox()" classname="edu.uoc.uocoban.model.entities.movable.BoxTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

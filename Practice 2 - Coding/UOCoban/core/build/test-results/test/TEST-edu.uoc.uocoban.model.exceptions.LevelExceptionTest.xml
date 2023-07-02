@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.uocoban.model.exceptions.LevelExceptionTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-07-02T15:07:04" hostname="tux" time="0.004">
+  <properties/>
+  <testcase name="Sanity LevelException - Class definition" classname="edu.uoc.uocoban.model.exceptions.LevelExceptionTest" time="0.0"/>
+  <testcase name="Sanity LevelException - Methods and Constructor definition" classname="edu.uoc.uocoban.model.exceptions.LevelExceptionTest" time="0.001"/>
+  <testcase name="Sanity LevelException - Fields definition" classname="edu.uoc.uocoban.model.exceptions.LevelExceptionTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

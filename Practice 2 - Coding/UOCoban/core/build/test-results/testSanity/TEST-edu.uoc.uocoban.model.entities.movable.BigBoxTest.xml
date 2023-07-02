@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.uocoban.model.entities.movable.BigBoxTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-07-02T15:06:53" hostname="tux" time="0.008">
+  <properties/>
+  <testcase name="Sanity BigBox - Class definition" classname="edu.uoc.uocoban.model.entities.movable.BigBoxTest" time="0.002"/>
+  <testcase name="Sanity BigBox - Methods definition" classname="edu.uoc.uocoban.model.entities.movable.BigBoxTest" time="0.003"/>
+  <testcase name="Sanity BigBox - Fields definition" classname="edu.uoc.uocoban.model.entities.movable.BigBoxTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

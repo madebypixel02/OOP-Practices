@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.uocoban.model.LevelTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-05-10T07:28:54" hostname="DESKTOP-R3THNTI" time="0.065">
+  <properties/>
+  <testcase name="Testing deadlock by cornered box" classname="edu.uoc.uocoban.model.LevelTest" time="0.039"/>
+  <testcase name="Testing deadlock by left horizontal block between two boxes" classname="edu.uoc.uocoban.model.LevelTest" time="0.003"/>
+  <testcase name="Testing deadlock by right horizontal block between two boxes" classname="edu.uoc.uocoban.model.LevelTest" time="0.003"/>
+  <testcase name="Testing deadlock by down vertical block between two boxes" classname="edu.uoc.uocoban.model.LevelTest" time="0.004"/>
+  <testcase name="Testing deadlock by up vertical block between two boxes" classname="edu.uoc.uocoban.model.LevelTest" time="0.003"/>
+  <testcase name="Testing non-deadlock situations" classname="edu.uoc.uocoban.model.LevelTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

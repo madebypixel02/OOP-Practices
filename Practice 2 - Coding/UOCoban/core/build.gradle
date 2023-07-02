@@ -1,0 +1,41 @@
+sourceCompatibility = 17
+[compileJava, compileTestJava]*.options*.encoding = 'UTF-8'
+
+sourceSets.main.java.srcDirs = [ "src/main/java" ]
+sourceSets.test.java.srcDirs = [ "src/test/java" ]
+
+eclipse.project.name = appName + "-core"
+
+task testSanity(type: Test) {
+    group = "Verification"
+    useJUnitPlatform {
+        includeTags "sanity"
+    }
+}
+
+task testInitLevel(type: Test) {
+    group = "Verification"
+    useJUnitPlatform {
+        includeTags "initLevel"
+    }
+}
+
+task testPlayLevel(type: Test) {
+    group = "Verification"
+    useJUnitPlatform {
+        includeTags "playLevel"
+    }
+}
+
+task testDeadlock(type: Test) {
+    group = "Verification"
+    useJUnitPlatform {
+        includeTags "deadlock"
+    }
+}
+
+javadoc {
+    source = sourceSets.main.allJava
+    options.memberLevel = JavadocMemberLevel.PRIVATE
+    destinationDir = file("/docs/")
+}

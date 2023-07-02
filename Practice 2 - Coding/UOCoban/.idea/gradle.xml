@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/UOC/Object-Oriented Programming/OOP-Practices/Practice 2 - Coding/UOCoban" />
+            <option value="$USER_HOME$/UOC/Object-Oriented Programming/OOP-Practices/Practice 2 - Coding/UOCoban/core" />
+            <option value="$USER_HOME$/UOC/Object-Oriented Programming/OOP-Practices/Practice 2 - Coding/UOCoban/desktop" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
